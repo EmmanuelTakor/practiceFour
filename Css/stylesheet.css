@@ -1,0 +1,31 @@
+#clear, #restore {
+    border: none;
+    padding: 10 40;
+    border-radius: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    margin-left: 2%;
+}
+#buttonSection{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* #videoSection{
+    border: 1px solid black;
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+.fix{
+    display: none;
+}
+.restore {
+    display: flex;
+}
